@@ -1,7 +1,6 @@
 # Hi, I'm Paras Batra 👋
 
-🎓 Final Year BCA Student  
-💼 Currently working at Teleperformance  
+🎓 Final Year BCA Student 
 💻 Learning Data Structures & Algorithms in Java  
 🚀 Interested in Backend Development  
 
